@@ -6,7 +6,7 @@
         #                                           #
         #    Facebook BruteForce, by M Asim CH      #
         #    Facebook Contact:     M  Asim          #
-        #    YouTube channel:Asim Pardasi,Asim Extra#                                       
+        #    YouTube channel:Asim Pardasi,          #                                       
         #############################################
 
 
